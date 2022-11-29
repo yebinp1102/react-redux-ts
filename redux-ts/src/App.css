@@ -1,0 +1,16 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+}
+
+.btns button{
+  border: none;
+  padding: .5rem;
+  background-color: #eee;
+}
